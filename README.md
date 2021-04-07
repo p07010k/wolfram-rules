@@ -1,6 +1,8 @@
 # wolfram-rules
 This script creates a PNG-image of first generations of Wolfram's elementary cellular automaton from a random bit string using integer input as its rule.
-["Elementary cellular automaton" page on Wikipedia](https://en.wikipedia.org/wiki/Elementary_cellular_automaton "Elementary cellular automaton").
+
+[Elementary cellular automaton](https://en.wikipedia.org/wiki/Elementary_cellular_automaton "Elementary cellular automaton") page on Wikipedia
+
 Made by p07010k in September 2020.
 
 ## Requirements
